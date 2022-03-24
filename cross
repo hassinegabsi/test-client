@@ -1,0 +1,24 @@
+export CPPFLAGS="-I/home/acoba/Documents/mosquito/ext_dependency/include"
+
+export LDFLAGS="-L/home/acoba/Documents/mosquito/ext_dependency/lib_armC6T -ldl"
+
+
+
+make CC=/usr/local/arm/arm-hisiv300-linux/bin/arm-hisiv300-linux-uclibcgnueabi-gcc CXX=/usr/local/arm/arm-hisiv300-linux/bin/arm-hisiv300-linux-uclibcgnueabi-g++ AR=/usr/local/arm/arm-hisiv300-linux/bin/arm-hisiv300-linux-uclibcgnueabi-ar LD=/usr/local/arm/arm-hisiv300-linux/bin/arm-hisiv300-linux-uclibcgnueabi-ld
+
+
+
+
+https://www.796t.com/article.php?id=200579
+
+https://www.fatalerrors.org/a/0tR22DE.html
+
+
+
+/usr/local/arm/arm-hisiv300-linux/bin/arm-hisiv300-linux-uclibcgnueabi-strip --strip-all
+
+
+https://stackoverflow.com/questions/69464187/how-can-i-detect-problems-with-user-password-in-the-connection-to-mqtt-broker-at
+
+
+http://www.steves-internet-guide.com/mqtt-last-will-example/
